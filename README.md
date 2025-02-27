@@ -27,9 +27,13 @@ By training the model on historical real estate data, the aim is to provide valu
 
 # Technologies Used: 
 Python: Primary language for data processing, model training, and evaluation.
+
 Pandas: For data manipulation and preprocessing.
+
 Scikit-learn: For machine learning algorithms and evaluation metrics.
+
 Matplotlib / Seaborn: For visualizing the dataset and results.
+
 Jupyter Notebooks: For interactive development and exploration of the data.
 
 # Learner Growth: 
