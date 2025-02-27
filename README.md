@@ -41,8 +41,8 @@ This project has provided valuable experience in applying machine learning techn
 
 # Potential Questions: 
 1. What features have the most impact on housing prices?
-2. Can the model predict prices accurately for unseen data?
-3. How does location influence pricing, and can the model predict prices in different cities?
+2. Can the model predict prices accurately?
+3. Is the model overfitting or underfitting? 
 4. What other machine learning models could be implemented to improve predictions?
 5. How does feature scaling impact model accuracy?
 
