@@ -26,15 +26,15 @@ By training the model on historical real estate data, the aim is to provide valu
 5. Data Visualization: Use Matplotlib and Seaborn to visualize key features, model results, and insights.
 
 # Technologies Used: 
-Python: Primary language for data processing, model training, and evaluation.
+__Python:__ Primary language for data processing, model training, and evaluation.
 
-Pandas: For data manipulation and preprocessing.
+__Pandas:__ For data manipulation and preprocessing.
 
-Scikit-learn: For machine learning algorithms and evaluation metrics.
+__Scikit-learn:__ For machine learning algorithms and evaluation metrics.
 
-Matplotlib / Seaborn: For visualizing the dataset and results.
+__Matplotlib / Seaborn:__ For visualizing the dataset and results.
 
-Jupyter Notebooks: For interactive development and exploration of the data.
+__Jupyter Notebooks:__ For interactive development and exploration of the data.
 
 # Learner Growth: 
 This project has provided valuable experience in applying machine learning techniques to real-world datasets. The combination of regression models, data preprocessing, and visualization allowed me to gain a deeper understanding of how machine learning can be used in the real estate domain. I’ve learned how to optimize models, visualize results, and interpret predictive outcomes effectively.
@@ -47,7 +47,7 @@ This project has provided valuable experience in applying machine learning techn
 5. How does feature scaling impact model accuracy?
 
 # Timeline: 
-This project was completed over five weeks. Week one consisted of data exploration and consumer research. Weeks two and three focused on cleaning and preprocessing the data to account for missing values and categorical encodings. Week four built, trained, and evaluated various machine learning models. Finally, week five focused on analyzing the results, creating visualizations and dashboard, and applying any model refinements based on the results. If including a written report on this project, weeks six and seven will focus on compiling those results into a paper. 
+This project was completed over five weeks. Week one consisted of data exploration and consumer research. Weeks two and three focused on cleaning and preprocessing the data to account for missing values and categorical encodings. Week four built, trained, and evaluated various machine learning models. Finally, week five focused on analyzing the results, creating visualizations and a dashboard, and applying any model refinements based on the results. If including a written report on this project, weeks six and seven will focus on compiling those results into a paper. 
 
 # License 
 This project is licensed under the MIT License- see the LICENSE file for details. 
