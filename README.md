@@ -47,7 +47,7 @@ This project has provided valuable experience in applying machine learning techn
 5. How does feature scaling impact model accuracy?
 
 # Timeline: 
-This project was completed over five weeks. Week one consisted of data exploration and consumer research. Weeks two and three focused on cleaning and preprocessing the data to account for missing values and categorical encodings. Week four built, trained, and evaluated various machine learning models. Finally, week five focused on analyzing the results, creating visualizations and a dashboard, and applying any model refinements based on the results. If including a written report on this project, weeks six and seven will focus on compiling those results into a paper. 
+This project was completed in one afternoon. An hour for the data exploration. This was an academic dataset, therefore the data did not need to be cleaned or preprocessed prior to use. The model was built and trained in one afternoon on a relatively small dataset. Finally, results and visualizations were produced at the end of the project, which took about three to four hours total. Additional time will need to be included for the final paper that was drafted from this exercise. five weeks.
 
 # License 
 This project is licensed under the MIT License- see the LICENSE file for details. 
