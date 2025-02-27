@@ -5,11 +5,17 @@ The Real Estate Oracle project leverages machine learning techniques to predict 
 The housing market can be complex and unpredictable, with many variables influencing property prices. The objective of this project is to build a predictive model that can accurately forecast house prices based on factors such as:
 
 Location (e.g., zip code, neighborhood)
+
 Size (square footage)
+
 Number of bedrooms and bathrooms
+
 Year built
+
 Lot size
+
 Property type (single-family, condo, etc.)
+
 By training the model on historical real estate data, the aim is to provide valuable insights for young homebuyers interested in informed decision-making.
 
 # Learning Objectives: 
